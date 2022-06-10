@@ -101,17 +101,17 @@ I'm Alexis and i'm a young developper full stack.
 </details>
 
 
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD&hide_border=true)](https://github.com/alexis-gss/portfolio)
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD&hide_border=true)](https://github.com/alexis-gss/portfolio)
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD&hide_border=true)](https://github.com/alexis-gss/portfolio)
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD&hide_border=true)](https://github.com/alexis-gss/portfolio)
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=39D353&hide_border=true)](https://github.com/alexis-gss/portfolio)
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD&hide_border=true)](https://github.com/alexis-gss/portfolio)
+[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
+[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
+[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
+[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
+[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=39D353)](https://github.com/alexis-gss/portfolio)
+[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
 
-![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD&hide_border=true)
-![Alexis's activity](https://github-readme-streak-stats.herokuapp.com?user=alexis-gss&hide_border=true&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&background=0D1117&sideNums=DDDDDD&sideLabels=DDDDDD&currStreakNum=DDDDDD&dates=818181)
+![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)
+![Alexis's activity](https://github-readme-streak-stats.herokuapp.com?user=alexis-gss&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&background=0D1117&sideNums=DDDDDD&sideLabels=DDDDDD&currStreakNum=DDDDDD&dates=818181)
 
-![Alexis's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexis-gss&layout=compact&bg_color=0D1117&title_color=39D353&text_color=DDDDDD&hide_border=true)
+![Alexis's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexis-gss&layout=compact&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)
 
 </br>
 
