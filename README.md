@@ -1,5 +1,7 @@
 <div align="center">
 
+![Banner of the github account](./banner.jpg)
+
 [![Repos Badge](https://badges.pufler.dev/repos/alexis-gss?color=39D353)](https://github.com/alexis-gss?tab=repositories)
 ![Profile views](https://gpvc.arturio.dev/alexis-gss?color=39D353)
 ![Commits Badge](https://badges.pufler.dev/commits/all/alexis-gss?color=39D353)
