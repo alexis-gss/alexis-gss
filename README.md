@@ -111,12 +111,12 @@ I'm Alexis and i'm a young developper full stack.
 
 <div align="center">
 
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=39D353)](https://github.com/alexis-gss/portfolio)
-[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
+[![Alexis portfolio](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=portfolio&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/portfolio)
+[![Alexis arcane](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=arcane&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/arcane)
+[![Alexis worldmap](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=worldmap&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/worldmap)
+[![Alexis marvelbuilder](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=marvelbuilder&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/marvelbuilder)
+[![Alexis tierlist](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=tierlist&bg_color=0D1117&title_color=39D353&text_color=39D353)](https://github.com/alexis-gss/tierlist)
+[![Alexis gamesnews](https://github-readme-stats.vercel.app/api/pin/?show_owner=true&username=alexis-gss&repo=gamesnews&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)](https://github.com/alexis-gss/gamesnews)
 
 ![Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexis-gss&bg_color=0D1117&title_color=39D353&text_color=DDDDDD)
 ![Alexis's activity](https://github-readme-streak-stats.herokuapp.com?user=alexis-gss&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&background=0D1117&sideNums=DDDDDD&sideLabels=DDDDDD&currStreakNum=DDDDDD&dates=818181)
