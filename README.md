@@ -14,7 +14,7 @@
 
 </div>
 <details align="left">
-    <summary align="center" style="font-size:15px;">| Advanced Topics |</summary>
+    <summary align="center" style="font-size:18px;">| Advanced Topics |</summary>
 
 <!-- Link for icons : https://github.com/Ileriayo/markdown-badges -->
 
@@ -106,8 +106,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 </details>
-
-</br>
 
 ---
 
