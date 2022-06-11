@@ -2,7 +2,7 @@
 
 ![Banner of the github account](./banner.jpg)
 
-![Profile views](https://gpvc.arturio.dev/alexis-gss?color=39D353)
+![Profile views](https://gpvc.arturio.dev/alexis-gss)
 
 ---
 
@@ -16,7 +16,9 @@
 <details align="left">
     <summary align="center" style="font-size:18px;">| Advanced Topics |</summary>
 
+
 <!-- Link for icons : https://github.com/Ileriayo/markdown-badges -->
+
 
 #### /Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
