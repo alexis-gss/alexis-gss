@@ -2,7 +2,7 @@
 
 ![Banner of the github account](./banner.jpg)
 
-![Profile views](https://gpvc.arturio.dev/alexis-gss)
+![Profile views](https://komarev.com/ghpvc/?username=alexis-gss&style=for-the-badge)
 
 ---
 
