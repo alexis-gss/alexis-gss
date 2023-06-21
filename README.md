@@ -8,7 +8,7 @@
 
 ### Hello and welcome everyone on my Github account !
 
-### I'm Alexis and i'm a young developper full stack.
+### I'm Alexis, i'm a developper full stack and database conceptor.
 
 </br>
 
